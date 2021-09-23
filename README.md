@@ -5,6 +5,7 @@ A new Flutter project.
 
 ## Getting Started
 
-`flutter run`
-`flutter pub add ${패키지명}`
+`open -a Simulator`  
+`flutter run`  
+`flutter pub add ${패키지명}`  
 `flutter pub get`
